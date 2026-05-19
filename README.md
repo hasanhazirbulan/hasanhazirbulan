@@ -16,7 +16,7 @@
   🏢 &nbsp;iOS Dev Intern @ <b>LIMBIC Apps & Software</b><br/>
   🏆 &nbsp;<b>Google Game & App Academy</b> Scholar<br/>
   🌍 &nbsp;Erasmus @ <b>West Pomeranian Univ.</b> 🇵🇱<br/>
-  🗣️ &nbsp;English · German 
+  🗣️ &nbsp;English · German · Polish
 </p>
 
 <br/>
@@ -104,6 +104,7 @@ Personal site built with Django — clean, fast, minimal.
 
 </div>
 
+---
 
 
 ## 🐍 Contribution Snake

@@ -16,7 +16,7 @@
   🏢 &nbsp;iOS Dev Intern @ <b>LIMBIC Apps & Software</b><br/>
   🏆 &nbsp;<b>Google Game & App Academy</b> Scholar<br/>
   🌍 &nbsp;Erasmus @ <b>West Pomeranian Univ.</b> 🇵🇱<br/>
-  🗣️ &nbsp;English · German · Polish
+  🗣️ &nbsp;English · German 
 </p>
 
 <br/>
@@ -104,23 +104,7 @@ Personal site built with Django — clean, fast, minimal.
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hasanhazirbulan&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=539bf5&icon_color=539bf5&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhazirbulan&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=539bf5&text_color=8b949e&langs_count=6&cache_seconds=1800"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=hasanhazirbulan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=539bf5&ring=539bf5&fire=f78166&currStreakLabel=539bf5&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 

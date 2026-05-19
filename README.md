@@ -1,113 +1,82 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:162032&height=110&section=header&text=&animation=twinkling"/>
-</div>
-
-<table border="0" align="center">
-<tr>
-<td width="55%" valign="center">
-
-<h1>Hi, I'm Hasan 👋</h1>
-
-<p>
-  Computer Engineering student at <b>İzmir Katip Çelebi University</b>, passionate about building <b>AI-powered mobile & web apps</b> that actually make a difference.
-</p>
-
-<p>
-  🏢 &nbsp;iOS Dev Intern @ <b>LIMBIC Apps & Software</b><br/>
-  🏆 &nbsp;<b>Google Game & App Academy</b> Scholar<br/>
-  🌍 &nbsp;Erasmus @ <b>West Pomeranian Univ.</b> 🇵🇱<br/>
-  🗣️ &nbsp;English · German · Polish
-</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanhaz%C4%B1rbulan/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanhazirbulan@gmail.com)
+# Hasan Hazırbulan
 
-</td>
-<td width="45%" align="center">
+**Computer Engineering · İzmir Katip Çelebi University**
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="320"/>
+<sub>iOS Developer @ LIMBIC Apps &nbsp;·&nbsp; Google Game & App Academy Scholar &nbsp;·&nbsp; Erasmus @ West Pomeranian Univ. 🇵🇱</sub>
 
-</td>
-</tr>
-</table>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanhaz%C4%B1rbulan/)
+[![Gmail](https://img.shields.io/badge/hasanhazirbulan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hasanhazirbulan@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=hasanhazirbulan&style=flat-square&color=539bf5&label=views)](https://github.com/hasanhazirbulan)
+
+<br/>
+
+</div>
+
+---
+
+### 🧠 Skills
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=flutter,swift,react,ts,python,pytorch,django,nodejs,firebase,postgres,git,java,cpp,dart&perline=7)](https://skillicons.dev)
+
+</div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Flutter+%C2%B7+SwiftUI+%C2%B7+React+19+%C2%B7+PyTorch+%C2%B7+Gemini+AI;Building+AI-driven+apps+that+actually+matter+%F0%9F%9A%80;Open+to+collab+%7C+Open+to+opportunities)](https://git.io/typing-svg)
+|  | Category | Technologies |
+|:---:|:---|:---|
+| 📱 | **Mobile** | Flutter · SwiftUI · Swift · Dart |
+| 🌐 | **Web** | React 19 · TypeScript · Django · Node.js |
+| 🤖 | **AI / ML** | PyTorch · NLP · LangChain · Gemini AI |
+| 🗄️ | **Data & Tools** | PostgreSQL · Firebase · Git · Agile |
+| 💬 | **Languages** | English (Fluent) · German · Polish |
 
 </div>
 
 ---
 
-## 🚀 What I've Built
+### 🚀 Projects
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
+<br/>
 
-### 🔍 [JobSwipe](https://github.com/GulfemKupeli/JobSwipe-AI-Powered-Job-Matching-Platform)
-**AI-Powered Job Matching**
+**[JobSwipe — AI-Powered Job Matching Platform](https://github.com/GulfemKupeli/JobSwipe-AI-Powered-Job-Matching-Platform)**
+&nbsp; `React 19` `TypeScript` `Gemini AI`
 
-Swipe-based job discovery (Tinder-style) with **Gemini AI** for interview prep, ATS CV scoring & resume analysis.
+> Swipe-based job discovery with Tinder-style UX. Gemini AI handles interview prep, ATS CV scoring, and resume-job alignment analysis. Supports 20+ screens, real-time chat, and role-based architecture for both job seekers and recruiters.
 
-`React 19` `TypeScript` `Gemini AI` `Framer Motion`
+<br/>
 
-</td>
-<td align="center" width="50%">
+**[Learn.inc — AI Student Productivity App](https://github.com/GulfemKupeli/Learn.inc-AI-Powered-Student-Productivity-App)**
+&nbsp; `Flutter` `Firebase` `PyTorch`
 
-### 📚 [Learn.inc](https://github.com/GulfemKupeli/Learn.inc-AI-Powered-Student-Productivity-App)
-**AI Student Productivity App**
+> Cross-platform mobile app with NLP pipelines for extractive & abstractive summarization and context-aware quiz generation from lecture notes and PDFs.
 
-Cross-platform app with NLP-powered summarization & quiz generation from lecture notes and PDFs.
+<br/>
 
-`Flutter` `Firebase` `PyTorch` `NLP`
+**[Automated ML Pipeline](https://github.com/hasanhazirbulan/Automated-ML-Pipeline-App)**
+&nbsp; `TypeScript` `Node.js`
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
+> Visual n8n-style pipeline builder for machine learning workflows — drag, connect, run.
 
-### 🤖 [ML Pipeline](https://github.com/hasanhazirbulan/Automated-ML-Pipeline-App)
-**Visual ML Workflow Builder**
+<br/>
 
-n8n-style drag-and-drop machine learning pipeline automation tool.
+**[Django Portfolio](https://github.com/hasanhazirbulan/mydjangoPortfolio)**
+&nbsp; `Python` `Django`
 
-`TypeScript` `Node.js`
-
-</td>
-<td align="center" width="50%">
-
-### 🌐 [Portfolio](https://github.com/hasanhazirbulan/mydjangoPortfolio)
-**Personal Portfolio**
-
-Personal site built with Django — clean, fast, minimal.
-
-`Python` `Django` `JavaScript`
-
-</td>
-</tr>
-</table>
-</div>
+> Personal portfolio website built with Django.
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,swift,dart,react,ts,js,django,nodejs,python,pytorch,firebase,postgres,git,java,cpp&perline=8)](https://skillicons.dev)
-
-</div>
-
----
-
-
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -115,8 +84,4 @@ Personal site built with Django — clean, fast, minimal.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasanhazirbulan/hasanhazirbulan/output/github-contribution-grid-snake.svg"/>
     <img alt="contribution snake" src="https://raw.githubusercontent.com/hasanhazirbulan/hasanhazirbulan/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:162032,50:1a1a2e,100:0d1117&height=80&section=footer"/>
 </div>

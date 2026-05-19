@@ -122,8 +122,8 @@ class HasanHazirbulan:
     <td width="50%" valign="top">
       <h4>💣 Multiplayer Bomberman Game</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/11_Design_Patterns-FF6B6B?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/A*_Pathfinding-2ea44f?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/11_Design_Patterns-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/A*_Pathfinding-2ea44f?style=flat-square"/>
       <br/><br/>
       Online multiplayer Bomberman with <b>11 design patterns</b>, A* pathfinding AI enemies, 3 visual themes, database integration, and full networking. Built for Design Patterns course with a 35+ page LaTeX report.
     </td>
@@ -131,7 +131,7 @@ class HasanHazirbulan:
       <h4>🎯 CritHit — Game Review Platform</h4>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Full--Stack-539bf5?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Full--Stack-539bf5?style=flat-square"/>
       <br/><br/>
       Full-stack game review &amp; rating platform (CENG316 Web Programming). Features auth system, 1–5 star ratings, genre filtering, profile management, and a polished responsive UI.
     </td>
@@ -182,21 +182,25 @@ class HasanHazirbulan:
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=hasanhazirbulan&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=22272e&title_color=539bf5&icon_color=539bf5&text_color=adbac7&include_all_commits=true&count_private=true&rank_icon=github"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhazirbulan&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=22272e&title_color=539bf5&text_color=adbac7&langs_count=8"/>
+<a href="https://github.com/hasanhazirbulan">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hasanhazirbulan&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=22272e&title_color=539bf5&icon_color=539bf5&text_color=adbac7&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+  &nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhazirbulan&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=22272e&title_color=539bf5&text_color=adbac7&langs_count=8&cache_seconds=1800" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=hasanhazirbulan&theme=github-dark-blue&hide_border=true&background=22272e&stroke=539bf5&ring=539bf5&fire=f78166&currStreakLabel=539bf5&sideLabels=adbac7&dates=adbac7&currStreakNum=ffffff&sideNums=ffffff"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=hasanhazirbulan&theme=github-dark-blue&hide_border=true&background=22272e&stroke=539bf5&ring=539bf5&fire=f78166&currStreakLabel=539bf5&sideLabels=adbac7&dates=adbac7&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanhazirbulan&theme=github_dark" />
 
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-
-> ⚙️ **Setup required:** Add `snake.yml` to `.github/workflows/` and run the action once — then the snake will appear here automatically every day.
 
 <div align="center">
   <picture>

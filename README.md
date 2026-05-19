@@ -1,94 +1,99 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=&animation=twinkling" />
+
 <div align="center">
 
-# Hasan Hazırbulan
+# 👋 Hasan Hazırbulan
 
-**Computer Engineer · AI & Mobile Developer**
+<p>
+  <b>Computer Engineer</b> &nbsp;·&nbsp; AI & Mobile Developer &nbsp;·&nbsp; İzmir, Türkiye 🇹🇷
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=539BF5&center=true&vCenter=true&width=580&lines=Flutter+%C2%B7+SwiftUI+%C2%B7+React+19+%C2%B7+PyTorch;Google+Game+%26+App+Academy+Scholar;Erasmus+%40+West+Pomeranian+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=539BF5&center=true&vCenter=true&width=560&lines=Flutter+%C2%B7+SwiftUI+%C2%B7+React+19+%C2%B7+PyTorch+%C2%B7+Gemini+AI;Google+Game+%26+App+Academy+Scholar+%F0%9F%8F%86;Erasmus+%40+West+Pomeranian+University+%F0%9F%87%B5%F0%9F%87%B1;iOS+Developer+%40+LIMBIC+Apps+%26+Software)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/hasanhaz%C4%B1rbulan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24"/></a>
-&nbsp;
-<a href="mailto:hasanhazirbulan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24"/></a>
-&nbsp;
-<a href="https://github.com/hasanhazirbulan"><img src="https://img.shields.io/github/followers/hasanhazirbulan?style=flat-square&logo=github&color=539bf5&labelColor=22272e&label=followers" height="24"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanhaz%C4%B1rbulan/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanhazirbulan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-22272e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasanhazirbulan)
 
 </div>
 
 ---
 
-## About
+### 🧑‍💻 About
 
-Computer Engineering student at **İzmir Katip Çelebi University**, focused on AI-powered mobile applications and intelligent systems. Experienced in **Flutter**, **SwiftUI**, and **React 19** for cross-platform and iOS development, with hands-on implementation of deep learning and NLP models using **PyTorch**.
-
-Currently on Erasmus exchange at **West Pomeranian University of Technology** 🇵🇱
-
----
-
-## Experience
-
-**iOS Developer Intern — LIMBIC Apps & Software** `Jul 2024 – Aug 2024`
-Developed AI-integrated iOS apps with Swift & SwiftUI. Implemented ML algorithms in mobile environments using agile workflows.
-
-**Google Game & App Academy Scholar** `Oct 2023 – Jul 2024`
-Selected nationwide. Advanced training in software architecture, AR/VR, and AI-driven application design.
-
-**Erasmus Exchange — West Pomeranian Univ. of Technology** `Mar 2025 – Jul 2025`
-Computer Science exchange program, Poland.
+```
+🎓  İzmir Katip Çelebi University — Computer Engineering (2021–2026)
+🌍  Erasmus @ West Pomeranian University of Technology, Poland (2025)
+💼  iOS Developer Intern @ LIMBIC Apps & Software (2024)
+🏆  Google Game & App Academy Scholar (2023–2024)
+📜  Django · Google PM (Coursera) · Pupilica AI & Data Science
+🗣️  English (Fluent) · German (Basic) · Polish (Basic)
+```
 
 ---
 
-## Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**JobSwipe**](https://github.com/GulfemKupeli/JobSwipe-AI-Powered-Job-Matching-Platform) | AI-powered job matching with swipe UX, Gemini AI interview prep & ATS CV scoring | React 19 · TypeScript · Gemini AI |
-| [**Learn.inc**](https://github.com/GulfemKupeli/Learn.inc-AI-Powered-Student-Productivity-App) | Cross-platform student productivity app with NLP-based summarization & quiz generation | Flutter · Firebase · PyTorch |
-| [**Automated ML Pipeline**](https://github.com/hasanhazirbulan/Automated-ML-Pipeline-App) | Visual n8n-style ML pipeline builder | TypeScript · Node.js |
-| [**Django Portfolio**](https://github.com/hasanhazirbulan/mydjangoPortfolio) | Personal portfolio website | Python · Django |
-
----
-
-## Tech Stack
+### 🚀 Projects
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+| &nbsp; | Project | Description | Tech |
+|:---:|---------|-------------|------|
+| 🔍 | [**JobSwipe**](https://github.com/GulfemKupeli/JobSwipe-AI-Powered-Job-Matching-Platform) | AI job matching with swipe UX, Gemini-powered interview prep & ATS CV scoring | React 19 · TypeScript · Gemini AI |
+| 📚 | [**Learn.inc**](https://github.com/GulfemKupeli/Learn.inc-AI-Powered-Student-Productivity-App) | Student productivity app — NLP summarization & quiz generation from lecture notes | Flutter · Firebase · PyTorch |
+| 🤖 | [**ML Pipeline**](https://github.com/hasanhazirbulan/Automated-ML-Pipeline-App) | Visual n8n-style machine learning pipeline builder | TypeScript · Node.js |
+| 🌐 | [**Portfolio**](https://github.com/hasanhazirbulan/mydjangoPortfolio) | Personal portfolio website | Python · Django |
 
 </div>
 
 ---
 
-## GitHub Stats
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hasanhazirbulan&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=22272e&title_color=539bf5&icon_color=539bf5&text_color=adbac7&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800"/>
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhazirbulan&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=22272e&title_color=539bf5&text_color=adbac7&langs_count=6&cache_seconds=1800"/>
+**Mobile**
+
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
+[![Swift](https://skillicons.dev/icons?i=swift)](https://swift.org)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
+
+**Web & Backend**
+
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
+[![Django](https://skillicons.dev/icons?i=django)](https://djangoproject.com)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+
+**AI / ML & Tools**
+
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![Python](https://skillicons.dev/icons?i=py)](https://python.org)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 
 </div>
 
 ---
 
-## Contribution Snake
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=hasanhazirbulan&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=22272e&title_color=539bf5&icon_color=539bf5&text_color=adbac7&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800"/>
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhazirbulan&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=22272e&title_color=539bf5&text_color=adbac7&langs_count=6&cache_seconds=1800"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=hasanhazirbulan&theme=github-dark-blue&hide_border=true&background=22272e&stroke=539bf5&ring=539bf5&fire=f78166&currStreakLabel=539bf5&sideLabels=adbac7&dates=adbac7&currStreakNum=ffffff&sideNums=ffffff"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -97,3 +102,5 @@ Computer Science exchange program, Poland.
     <img alt="contribution snake" src="https://raw.githubusercontent.com/hasanhazirbulan/hasanhazirbulan/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer"/>

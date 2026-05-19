@@ -1,18 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hasan%20Hazırbulan&fontSize=48&fontColor=58a6ff&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hasan%20Hazırbulan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20·%20AI%20%26%20Mobile%20Developer&descSize=15&descColor=adbac7&descAlignY=56&animation=twinkling" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI-powered+experiences+%F0%9F%A4%96;Full-stack+dev+%7C+React+%7C+Flutter+%7C+Django;Computer+Engineering+%40+%C4%B0KCU+%F0%9F%8E%93;Turning+ideas+into+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=539BF5&center=true&vCenter=true&random=false&width=620&lines=Building+AI-powered+mobile+%26+web+apps+%F0%9F%A4%96;Flutter+·+SwiftUI+·+React+19+·+PyTorch;İKÇÜ+%7C+Erasmus+%40+West+Pomerania+%F0%9F%87%B5%F0%9F%87%B1;Google+Game+%26+App+Academy+Scholar+%F0%9F%8F%86;Turning+complex+problems+into+elegant+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub followers](https://img.shields.io/github/followers/hasanhazirbulan?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117)](https://github.com/hasanhazirbulan)
-[![Profile Views](https://komarev.com/ghpvc/?username=hasanhazirbulan&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/hasanhazirbulan)
+<a href="https://www.linkedin.com/in/hasanhazırbulan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26"/>
+</a>
+&nbsp;
+<a href="mailto:hasanhazirbulan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="26"/>
+</a>
+&nbsp;
+<a href="https://github.com/hasanhazirbulan">
+  <img src="https://img.shields.io/github/followers/hasanhazirbulan?style=flat-square&logo=github&color=539bf5&labelColor=22272e&label=followers" height="26"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=hasanhazirbulan&style=flat-square&color=539bf5&label=profile+views" height="26"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -20,20 +32,132 @@
 
 ```python
 class HasanHazirbulan:
-    def __init__(self):
-        self.name       = "Hasan Hazırbulan"
-        self.university = "İzmir Katip Çelebi University"
-        self.degree     = "Computer Engineering"
-        self.location   = "İzmir, Türkiye 🇹🇷"
-        self.interests  = ["AI/ML", "Full-Stack Dev", "Mobile Apps", "Open Source"]
-        self.currently  = "Building AI-powered products that actually matter"
+    name        = "Hasan Hazırbulan"
+    location    = "İzmir, Türkiye 🇹🇷"
+    university  = "İzmir Katip Çelebi University — Computer Engineering"
+    exchange    = "Erasmus @ West Pomeranian University of Technology 🇵🇱"
+    internship  = "LIMBIC Apps & Software — iOS Developer (Swift / SwiftUI)"
+    scholarship = "Google Game & Application Academy Scholar 🏆"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something great together 🚀")
+    skills = {
+        "mobile":    ["Flutter", "SwiftUI", "Swift"],
+        "web":       ["React 19", "TypeScript", "Django"],
+        "ai_ml":     ["PyTorch", "NLP", "LangChain", "Gemini AI"],
+        "languages": ["Python", "Java", "C/C++", "Dart"],
+        "tools":     ["Git", "Firebase", "PostgreSQL", "Agile"],
+    }
 
-me = HasanHazirbulan()
-me.say_hi()
+    spoken_languages = {
+        "English": "Fluent 🇬🇧",
+        "German":  "Basic  🇩🇪",
+        "Polish":  "Basic  🇵🇱",
+    }
+
+    now = "Building AI-driven products that bridge mobile & intelligence 🚀"
 ```
+
+---
+
+## 💼 Experience & Achievements
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 Internship — LIMBIC Apps & Software</h4>
+      <sub><b>Jul 2024 – Aug 2024</b></sub><br/><br/>
+      Developed AI-integrated iOS applications using <b>Swift</b> and <b>SwiftUI</b>, implementing ML algorithms directly in mobile environments. Applied agile workflows and Git-based version control in a professional setting.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏆 Google Game & App Academy Scholar</h4>
+      <sub><b>Oct 2023 – Jul 2024</b></sub><br/><br/>
+      Selected nationwide for this highly competitive program. Completed advanced training in software architecture, project management, and emerging tech including <b>AR/VR</b> and <b>AI-driven game design</b>.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌍 Erasmus Exchange — West Pomerania, Poland</h4>
+      <sub><b>Mar 2025 – Jul 2025</b></sub><br/><br/>
+      Exchange student at <b>West Pomeranian University of Technology</b>, studying Computer Science. Broadened technical and cross-cultural perspective in an international environment.
+    </td>
+    <td width="50%" valign="top">
+      <h4>📜 Certifications</h4><br/>
+      🔹 Web Development Workshop with <b>Django</b><br/>
+      🔹 Google Project Management — <b>Coursera</b><br/>
+      🔹 Pupilica — <b>AI & Data Science</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+### 🤖 AI-Powered Applications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/GulfemKupeli/JobSwipe-AI-Powered-Job-Matching-Platform">🔍 JobSwipe — AI Job Matching Platform</a></h4>
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <br/><br/>
+      Tinder-style job discovery with <b>Framer Motion</b> swipe UX. Gemini AI powers interview prep, ATS CV scoring, and resume-job alignment analysis. 20+ production screens, real-time chat, role-based architecture.
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/GulfemKupeli/Learn.inc-AI-Powered-Student-Productivity-App">📚 Learn.inc — AI Student Productivity App</a></h4>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <br/><br/>
+      Cross-platform mobile app with AI-powered study summarization and quiz generation. <b>NLP pipelines</b> using PyTorch for extractive/abstractive summarization from lecture notes and PDFs.
+    </td>
+  </tr>
+</table>
+
+### 🎮 Game Development
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💣 Multiplayer Bomberman Game</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/11_Design_Patterns-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/A*_Pathfinding-4CAF50?style=flat-square"/>
+      <br/><br/>
+      Online multiplayer Bomberman with <b>11 design patterns</b>, A* pathfinding AI, 3 visual themes, database integration, and full networking. Built for the Design Patterns course alongside a 35+ page LaTeX technical report.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 CritHit — Game Review Platform</h4>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Full--Stack-539bf5?style=flat-square"/>
+      <br/><br/>
+      Full-stack game review & rating platform (CENG316 Web Programming). Features auth system, 1–5 star ratings, genre filtering, profile management, and a polished responsive UI.
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Other Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/hasanhazirbulan/Automated-ML-Pipeline-App">🤖 Automated ML Pipeline</a></h4>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <br/><br/>
+      Visual n8n-style ML pipeline builder — drag-and-drop workflow automation for machine learning tasks.
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/hasanhazirbulan/mydjangoPortfolio">🌐 Personal Portfolio — Django</a></h4>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br/><br/>
+      Personal portfolio site built with Django. Showcases projects, skills, and experience.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -41,50 +165,14 @@ me.say_hi()
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### ⚙️ Backend & Databases
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 AI / ML
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|------------|-------|
-| 🔍 [**JobSwipe**](https://github.com/GulfemKupeli/JobSwipe-AI-Powered-Job-Matching-Platform) | AI-powered job matching platform with Tinder-style swiping | React · TypeScript · Gemini AI |
-| 📚 [**Learn.inc**](https://github.com/GulfemKupeli/Learn.inc-AI-Powered-Student-Productivity-App) | Student productivity app with AI assistance | Flutter · Firebase · Gemini AI |
-| 🤖 [**Automated ML Pipeline**](https://github.com/hasanhazirbulan/Automated-ML-Pipeline-App) | n8n-style visual ML pipeline builder | TypeScript · Node.js |
-| 🌐 [**Django Portfolio**](https://github.com/hasanhazirbulan/mydjangoPortfolio) | Personal portfolio built with Django | Python · Django · JavaScript |
+| Category | Technologies |
+|:---|:---|
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
+| **Frontend** | ![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **DB & Tools** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
@@ -94,16 +182,26 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasanhazirbulan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=hasanhazirbulan&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=22272e&title_color=539bf5&icon_color=539bf5&text_color=adbac7&include_all_commits=true&count_private=true&rank_icon=github"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhazirbulan&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=22272e&title_color=539bf5&text_color=adbac7&langs_count=8"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhazirbulan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=hasanhazirbulan&theme=github-dark-blue&hide_border=true&background=22272e&stroke=539bf5&ring=539bf5&fire=f78166&currStreakLabel=539bf5&sideLabels=adbac7&dates=adbac7&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com?user=hasanhazirbulan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/hasanhazirbulan/hasanhazirbulan/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasanhazirbulan/hasanhazirbulan/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasanhazirbulan/hasanhazirbulan/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </div>
 
 ---
@@ -111,29 +209,15 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hasanhazirbulan&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=6"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanhazirbulan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=1a1a2e" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=hasanhazirbulan&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
 
-*"Code is like humor. When you have to explain it, it's bad."*
-
-**Let's connect and build something amazing together! 🤝**
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 
 </div>

@@ -28,7 +28,6 @@
 💼  iOS Developer Intern @ LIMBIC Apps & Software (2024)
 🏆  Google Game & App Academy Scholar (2023–2024)
 📜  Django · Google PM (Coursera) · Pupilica AI & Data Science
-🗣️  English (Fluent) · German (Basic) · Polish (Basic)
 ```
 
 ---

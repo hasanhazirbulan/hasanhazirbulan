@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 12 * * *"   # Her gün saat 12:00 UTC'de çalışır
-  workflow_dispatch:         # Elle de çalıştırılabilir
+    - cron: "0 12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,6 +12,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write  # Add this to grant write permissions
+      pages: write
 
     steps:
       - name: Generate Snake

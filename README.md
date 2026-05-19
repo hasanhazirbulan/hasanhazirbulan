@@ -1,82 +1,128 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=&animation=twinkling" />
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:162032&height=110&section=header&text=&animation=twinkling"/>
+</div>
 
-# 👋 Hasan Hazırbulan
+<table border="0" align="center">
+<tr>
+<td width="55%" valign="center">
+
+<h1>Hi, I'm Hasan 👋</h1>
 
 <p>
-  <b>Computer Engineer</b> &nbsp;·&nbsp; AI & Mobile Developer &nbsp;·&nbsp; İzmir, Türkiye 🇹🇷
+  Computer Engineering student at <b>İzmir Katip Çelebi University</b>, passionate about building <b>AI-powered mobile & web apps</b> that actually make a difference.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=539BF5&center=true&vCenter=true&width=560&lines=Flutter+%C2%B7+SwiftUI+%C2%B7+React+19+%C2%B7+PyTorch+%C2%B7+Gemini+AI;Google+Game+%26+App+Academy+Scholar+%F0%9F%8F%86;Erasmus+%40+West+Pomeranian+University+%F0%9F%87%B5%F0%9F%87%B1;iOS+Developer+%40+LIMBIC+Apps+%26+Software)](https://git.io/typing-svg)
+<p>
+  🏢 &nbsp;iOS Dev Intern @ <b>LIMBIC Apps & Software</b><br/>
+  🏆 &nbsp;<b>Google Game & App Academy</b> Scholar<br/>
+  🌍 &nbsp;Erasmus @ <b>West Pomeranian Univ.</b> 🇵🇱<br/>
+  🗣️ &nbsp;English · German · Polish
+</p>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanhaz%C4%B1rbulan/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanhazirbulan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-22272e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasanhazirbulan)
 
-</div>
+</td>
+<td width="45%" align="center">
 
----
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="320"/>
 
-### 🧑‍💻 About
+</td>
+</tr>
+</table>
 
-```
-🎓  İzmir Katip Çelebi University — Computer Engineering (2021–2026)
-🌍  Erasmus @ West Pomeranian University of Technology, Poland (2025)
-💼  iOS Developer Intern @ LIMBIC Apps & Software (2024)
-🏆  Google Game & App Academy Scholar (2023–2024)
-📜  Django · Google PM (Coursera) · Pupilica AI & Data Science
-```
-
----
-
-### 🚀 Projects
+<br/>
 
 <div align="center">
 
-| &nbsp; | Project | Description | Tech |
-|:---:|---------|-------------|------|
-| 🔍 | [**JobSwipe**](https://github.com/GulfemKupeli/JobSwipe-AI-Powered-Job-Matching-Platform) | AI job matching with swipe UX, Gemini-powered interview prep & ATS CV scoring | React 19 · TypeScript · Gemini AI |
-| 📚 | [**Learn.inc**](https://github.com/GulfemKupeli/Learn.inc-AI-Powered-Student-Productivity-App) | Student productivity app — NLP summarization & quiz generation from lecture notes | Flutter · Firebase · PyTorch |
-| 🤖 | [**ML Pipeline**](https://github.com/hasanhazirbulan/Automated-ML-Pipeline-App) | Visual n8n-style machine learning pipeline builder | TypeScript · Node.js |
-| 🌐 | [**Portfolio**](https://github.com/hasanhazirbulan/mydjangoPortfolio) | Personal portfolio website | Python · Django |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Flutter+%C2%B7+SwiftUI+%C2%B7+React+19+%C2%B7+PyTorch+%C2%B7+Gemini+AI;Building+AI-driven+apps+that+actually+matter+%F0%9F%9A%80;Open+to+collab+%7C+Open+to+opportunities)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 What I've Built
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔍 [JobSwipe](https://github.com/GulfemKupeli/JobSwipe-AI-Powered-Job-Matching-Platform)
+**AI-Powered Job Matching**
+
+Swipe-based job discovery (Tinder-style) with **Gemini AI** for interview prep, ATS CV scoring & resume analysis.
+
+`React 19` `TypeScript` `Gemini AI` `Framer Motion`
+
+</td>
+<td align="center" width="50%">
+
+### 📚 [Learn.inc](https://github.com/GulfemKupeli/Learn.inc-AI-Powered-Student-Productivity-App)
+**AI Student Productivity App**
+
+Cross-platform app with NLP-powered summarization & quiz generation from lecture notes and PDFs.
+
+`Flutter` `Firebase` `PyTorch` `NLP`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 [ML Pipeline](https://github.com/hasanhazirbulan/Automated-ML-Pipeline-App)
+**Visual ML Workflow Builder**
+
+n8n-style drag-and-drop machine learning pipeline automation tool.
+
+`TypeScript` `Node.js`
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 [Portfolio](https://github.com/hasanhazirbulan/mydjangoPortfolio)
+**Personal Portfolio**
+
+Personal site built with Django — clean, fast, minimal.
+
+`Python` `Django` `JavaScript`
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Mobile**
-
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
-[![Swift](https://skillicons.dev/icons?i=swift)](https://swift.org)
-[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
-
-**Web & Backend**
-
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
-[![Django](https://skillicons.dev/icons?i=django)](https://djangoproject.com)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-
-**AI / ML & Tools**
-
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![Python](https://skillicons.dev/icons?i=py)](https://python.org)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![My Skills](https://skillicons.dev/icons?i=flutter,swift,dart,react,ts,js,django,nodejs,python,pytorch,firebase,postgres,git,java,cpp&perline=8)](https://skillicons.dev)
 
 </div>
 
+---
 
+## 📊 GitHub Stats
 
-### 🐍 Contribution Snake
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hasanhazirbulan&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=539bf5&icon_color=539bf5&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhazirbulan&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=539bf5&text_color=8b949e&langs_count=6&cache_seconds=1800"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=hasanhazirbulan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=539bf5&ring=539bf5&fire=f78166&currStreakLabel=539bf5&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -86,4 +132,6 @@
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:162032,50:1a1a2e,100:0d1117&height=80&section=footer"/>
+</div>

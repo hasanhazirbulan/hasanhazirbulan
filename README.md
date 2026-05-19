@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hasan%20Hazırbulan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20·%20AI%20%26%20Mobile%20Developer&descSize=15&descColor=adbac7&descAlignY=56&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hasan+Haz%C4%B1rbulan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Computer+Engineer+%C2%B7+AI+%26+Mobile+Developer&descSize=15&descColor=adbac7&descAlignY=56&animation=twinkling" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=539BF5&center=true&vCenter=true&random=false&width=620&lines=Building+AI-powered+mobile+%26+web+apps+%F0%9F%A4%96;Flutter+·+SwiftUI+·+React+19+·+PyTorch;İKÇÜ+%7C+Erasmus+%40+West+Pomerania+%F0%9F%87%B5%F0%9F%87%B1;Google+Game+%26+App+Academy+Scholar+%F0%9F%8F%86;Turning+complex+problems+into+elegant+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=539BF5&center=true&vCenter=true&random=false&width=640&lines=Building+AI-powered+mobile+%26+web+apps+%F0%9F%A4%96;Flutter+%C2%B7+SwiftUI+%C2%B7+React+19+%C2%B7+PyTorch;IKCU+%7C+Erasmus+%40+West+Pomeranian+Uni+%F0%9F%87%B5%F0%9F%87%B1;Google+Game+%26+App+Academy+Scholar+%F0%9F%8F%86;Turning+complex+problems+into+elegant+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/hasanhazırbulan/">
+<a href="https://www.linkedin.com/in/hasanhaz%C4%B1rbulan/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26"/>
 </a>
 &nbsp;
@@ -63,12 +63,12 @@ class HasanHazirbulan:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏢 Internship — LIMBIC Apps & Software</h4>
+      <h4>🏢 Internship — LIMBIC Apps &amp; Software</h4>
       <sub><b>Jul 2024 – Aug 2024</b></sub><br/><br/>
       Developed AI-integrated iOS applications using <b>Swift</b> and <b>SwiftUI</b>, implementing ML algorithms directly in mobile environments. Applied agile workflows and Git-based version control in a professional setting.
     </td>
     <td width="50%" valign="top">
-      <h4>🏆 Google Game & App Academy Scholar</h4>
+      <h4>🏆 Google Game &amp; App Academy Scholar</h4>
       <sub><b>Oct 2023 – Jul 2024</b></sub><br/><br/>
       Selected nationwide for this highly competitive program. Completed advanced training in software architecture, project management, and emerging tech including <b>AR/VR</b> and <b>AI-driven game design</b>.
     </td>
@@ -83,7 +83,7 @@ class HasanHazirbulan:
       <h4>📜 Certifications</h4><br/>
       🔹 Web Development Workshop with <b>Django</b><br/>
       🔹 Google Project Management — <b>Coursera</b><br/>
-      🔹 Pupilica — <b>AI & Data Science</b>
+      🔹 Pupilica — <b>AI &amp; Data Science</b>
     </td>
   </tr>
 </table>
@@ -100,17 +100,17 @@ class HasanHazirbulan:
       <h4><a href="https://github.com/GulfemKupeli/JobSwipe-AI-Powered-Job-Matching-Platform">🔍 JobSwipe — AI Job Matching Platform</a></h4>
       <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
       <br/><br/>
-      Tinder-style job discovery with <b>Framer Motion</b> swipe UX. Gemini AI powers interview prep, ATS CV scoring, and resume-job alignment analysis. 20+ production screens, real-time chat, role-based architecture.
+      Tinder-style job discovery with swipe UX. Gemini AI powers interview prep, ATS CV scoring, and resume-job alignment. 20+ production screens, real-time chat, role-based architecture.
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/GulfemKupeli/Learn.inc-AI-Powered-Student-Productivity-App">📚 Learn.inc — AI Student Productivity App</a></h4>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <br/><br/>
-      Cross-platform mobile app with AI-powered study summarization and quiz generation. <b>NLP pipelines</b> using PyTorch for extractive/abstractive summarization from lecture notes and PDFs.
+      Cross-platform mobile app with AI-powered study summarization and quiz generation. NLP pipelines with PyTorch for extractive/abstractive summarization from lecture notes and PDFs.
     </td>
   </tr>
 </table>
@@ -122,18 +122,18 @@ class HasanHazirbulan:
     <td width="50%" valign="top">
       <h4>💣 Multiplayer Bomberman Game</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/11_Design_Patterns-FF6B6B?style=flat-square"/>
-      <img src="https://img.shields.io/badge/A*_Pathfinding-4CAF50?style=flat-square"/>
+      <img src="https://img.shields.io/badge/11_Design_Patterns-FF6B6B?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/A*_Pathfinding-2ea44f?style=flat-square&logoColor=white"/>
       <br/><br/>
-      Online multiplayer Bomberman with <b>11 design patterns</b>, A* pathfinding AI, 3 visual themes, database integration, and full networking. Built for the Design Patterns course alongside a 35+ page LaTeX technical report.
+      Online multiplayer Bomberman with <b>11 design patterns</b>, A* pathfinding AI enemies, 3 visual themes, database integration, and full networking. Built for Design Patterns course with a 35+ page LaTeX report.
     </td>
     <td width="50%" valign="top">
       <h4>🎯 CritHit — Game Review Platform</h4>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Full--Stack-539bf5?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Full--Stack-539bf5?style=flat-square&logoColor=white"/>
       <br/><br/>
-      Full-stack game review & rating platform (CENG316 Web Programming). Features auth system, 1–5 star ratings, genre filtering, profile management, and a polished responsive UI.
+      Full-stack game review &amp; rating platform (CENG316 Web Programming). Features auth system, 1–5 star ratings, genre filtering, profile management, and a polished responsive UI.
     </td>
   </tr>
 </table>
@@ -168,11 +168,11 @@ class HasanHazirbulan:
 | Category | Technologies |
 |:---|:---|
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
-| **Frontend** | ![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| **Frontend** | ![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **DB & Tools** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **DB & Tools** | ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
@@ -195,6 +195,8 @@ class HasanHazirbulan:
 ---
 
 ## 🐍 Contribution Snake
+
+> ⚙️ **Setup required:** Add `snake.yml` to `.github/workflows/` and run the action once — then the snake will appear here automatically every day.
 
 <div align="center">
   <picture>

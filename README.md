@@ -74,23 +74,7 @@
 
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=hasanhazirbulan&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=22272e&title_color=539bf5&icon_color=539bf5&text_color=adbac7&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800"/>
-&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhazirbulan&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=22272e&title_color=539bf5&text_color=adbac7&langs_count=6&cache_seconds=1800"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=hasanhazirbulan&theme=github-dark-blue&hide_border=true&background=22272e&stroke=539bf5&ring=539bf5&fire=f78166&currStreakLabel=539bf5&sideLabels=adbac7&dates=adbac7&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
-
----
 
 ### 🐍 Contribution Snake
 
